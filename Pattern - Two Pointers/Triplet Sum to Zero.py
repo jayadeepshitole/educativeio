@@ -1,2 +1,2 @@
-import numpy as np
-import pandas as pd
+arr = [-3, 0, 1, 2, -1, 1, -2]
+
